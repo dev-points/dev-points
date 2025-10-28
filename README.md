@@ -16,7 +16,7 @@
 
 ## 💻 Tech Stack:
 
- JavaScript | PHP | PowerShell | Python | Bash Script | AWS | Azure | Cloudflare | Firebase | Google Cloud | NodeJS | Next JS | Apache | Apache Tomcat | Amazon DynamoDB | Firebase | MariaDB | Microsoft SQL Server | MongoDB | MySQL | Postgres | SQLite | Quill | Git | Bitbucket | GitHub | GitLab | Cisco | Docker | Postman 
+ JavaScript | PHP | PowerShell | Python | Bash Script | AWS | Azure | Cloudflare | Firebase | Google Cloud | NodeJS | Next JS | Apache | Apache Tomcat | Amazon DynamoDB | Firebase | MariaDB | Microsoft SQL Server | MongoDB | MySQL | Postgres | SQLite  | Git | Bitbucket | GitHub | GitLab | Cisco | Docker | Postman 
 
 ---
 
