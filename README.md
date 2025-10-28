@@ -6,11 +6,6 @@
 🌱 **Actively expanding my expertise** in **ethical hacking practices**, **offensive security testing**, and **emerging cybersecurity standards** used by top-tier organizations.  
 💬 **If you want real insights beyond the bots —** let’s talk!
 
----
-
-## 🌐 Socials:
-
-[Instagram](https://www.instagram.com/) | [LinkedIn](https://www.linkedin.com/)
 
 ---
 
@@ -23,7 +18,7 @@
 ## 🛡️ Cybersecurity Skills
 
 ### 🔒 Penetration Testing
-Metasploit | Nmap
+Metasploit | Nmap 
 
 ### 🌐 Web Application Security
 Burp Suite | OWASP
