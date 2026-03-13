@@ -18,18 +18,18 @@ I’m driven by a curiosity to understand how attacks happen and how they can be
 
 ## Skills
 
-| Skill                                         | Associated Project                             |
-|-----------------------------------------------|-----------------------------------------------|
-| Vulnerability Management                      | Vulnerability Management using Nessus 
-| Cyber Threat Intelligence                     | AWS Honeypot Lab for Cyber Threat Intelligence | 
-| SIEM Implementation and Log Analysis          | Detection Lab
-| Malware Analysis and Reverse Engineering      | Malware Analysis Lab
-| Network Traffic Analysis                      | Network Traffic Analysis with Wireshark |
-| Forensics                                     | Memory Analysis of a compromised windows machine using volatility |
-| Endpoint Detection and Response               |            
+| Skill                                         
+|-----------------------------------------------
+| Vulnerability Management                      
+| Cyber Threat Intelligence                     
+| SIEM Implementation and Log Analysis          
+| Malware Analysis and Reverse Engineering      
+| Network Traffic Analysis                      
+| Forensics                                     
+| Endpoint Detection and Response                          
 | Incident Response Planning and Execution
 | Splunk, SIEM, Threat Detection, Log Analysis, Security Analytics|   Splunk Threat Hunting                         
-| Case Management with TheHive                  |                             
+| Case Management with TheHive                                             
 
 ## Tools
 
