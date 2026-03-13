@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-🔭 **Currently:** Leading a **cybersecurity team** focused on building smarter, stronger, and more adaptive defense systems.  
+🔭 **Currently:Focused on building smarter, stronger, and more adaptive defense systems.  
 👯 **Always excited to collaborate** on **innovative security initiatives**, **AI-driven threat analysis**, **vulnerability research**, and **next-generation defense architectures**.  
 🤝 **Looking to connect with experts** in **red teaming**, **incident response optimization**, and **security automation** to push the boundaries of cyber resilience.  
 🌱 **Actively expanding my expertise** in **ethical hacking practices**, **offensive security testing**, and **emerging cybersecurity standards** used by top-tier organizations.  
