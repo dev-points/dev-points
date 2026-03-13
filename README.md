@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Isaiah Avweromre!
+  Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Stephen (CyberWhite #fff)!
 </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/ofoegbu-s-887215302/ target="_blank">
